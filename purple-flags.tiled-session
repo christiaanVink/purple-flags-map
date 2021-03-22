@@ -18,10 +18,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1019.3333333333331,
-                "y": 143.33333333333326
+                "x": 1010,
+                "y": 134
             }
         },
         "map.json#Font": {
@@ -45,7 +45,7 @@
         "map.json"
     ],
     "project": "purple-flags.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "map.json",
         "football.tsx"
