@@ -1,0 +1,34 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 704.5,
+                "y": 535.5
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/cvink/GIT/purple-flags-map",
+    "openFiles": [
+    ],
+    "project": "purple-flags.tiled-project",
+    "recentFiles": [
+        "map.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
