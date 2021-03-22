@@ -18,10 +18,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1344.6666666666665,
-                "y": 601.9999999999999
+                "x": 1019.3333333333331,
+                "y": 143.33333333333326
             }
         },
         "map.json#Font": {
