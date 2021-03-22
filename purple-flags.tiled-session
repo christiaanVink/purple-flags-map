@@ -19,8 +19,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1499.3333333333335,
-                "y": 690.6666666666666
+                "x": 1353.9999999999998,
+                "y": 616.6666666666667
             }
         },
         "map.json#floortileset": {
@@ -38,7 +38,7 @@
         "map.json"
     ],
     "project": "purple-flags.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "map.json",
         "football.tsx"
